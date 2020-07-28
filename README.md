@@ -1,4 +1,4 @@
-# i3wm 极其配置文件
+# i3wm 配置文件
 
 预览图
 ![Image text](https://github.com/diandianti/dotfile/blob/master/pics/app.png)
@@ -21,13 +21,6 @@ rofi与polybar的设置灵感来源于https://github.com/aeghn/prettyi3
 
 
 # dotfile
-
-preview
-
-![Image text](https://github.com/diandianti/dotfile/blob/master/pics/app.png)
-
-![Image text](https://raw.githubusercontent.com/diandianti/dotfile/master/pics/sys.png)
-
 
 my dotfile
 
