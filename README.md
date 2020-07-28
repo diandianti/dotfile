@@ -16,7 +16,7 @@
 
 rofi与polybar的设置灵感来源于https://github.com/aeghn/prettyi3
 
-壁纸来源于 Wallpaper from https://wallhaven.cc/
+壁纸来源于  https://wallhaven.cc/
 
 
 
