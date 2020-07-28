@@ -1,0 +1,7 @@
+1
+shell 
+cd ~/
+search dunst
+open_with 
+
+delete
